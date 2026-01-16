@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Momo+Trust+Display&display=swap");
+:root {
+  --font-family-primary: "JetBrains Mono", monospace;
+  --font-family-brand: "Momo Trust Display", sans-serif;
+  --font-hero-heading: var(--font-family-primary);
+  --font-hero-subtext: var(--font-family-primary);
+  --font-hero-button: var(--font-family-primary);
+
+  --color-brand-text:#DD0303; /*FF2929 DD0303 FB4141 F93827*/
+  --color-hero-bg: #e62727;
+  --color-hero-heading-text: #f9faf7;
+  --color-hero-subtext: rgba(249, 250, 247, 0.75);
+
+  /* Button */
+  --color-hero-button-bg: #f3f2ec;
+  --color-hero-button-text: black;
+  --color-hero-button-border: black;
+  --shadow-hero-button: black;
+
+  /* Shadows */
+  /* --hero-button-shadow: 0 6px 14px rgba(122, 31, 31, 0.45);
+  --hero-button-shadow-hover: 0 8px 18px rgba(122, 31, 31, 0.55);
+  --hero-button-shadow-active: 0 3px 8px rgba(122, 31, 31, 0.65); */
+}
+
+/* Useful Color (took refernce from colorhunt.co/): E62727 EA7B7B D25353 9E3B3B FFEAD3 */
